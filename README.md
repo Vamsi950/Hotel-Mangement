@@ -1,7 +1,18 @@
-# Elysian Stays - Full Stack Hotel Booking Portal
+# LuxeStay - Premium Full Stack Hotel Booking Portal
 
 A premium, modern, and highly responsive **Full Stack Hotel Booking Website** featuring a curated glassmorphism dark-theme design. 
 The system features only two user roles: **Customer** (for browsing, searching, and securing reservations) and **Admin** (for dashboard statistics, CRUD listings, user locking, and coupon building).
+
+---
+
+## 🚀 Custom Premium Integrations (New!)
+
+We have successfully integrated a suite of premium, highly robust full-stack features:
+- **Interactive Checkout Coupons Tag List**: Dynamically fetches active coupons on checkout load, rendering small clickable tag pills in the sidebar to auto-populate and apply discounts instantly.
+- **Conjoint Multi-Amenities Checklist Filters**: Transitioned the single featured amenity selector to a dynamic conjoint checklist (Luxury Spa, Swimming Pool, Private Beach, Ski Retreat), showing only hotels hosting *all* active items.
+- **Dynamic Homepage Location Resolver**: Dynamically pulls unique locations from active properties in the database to automatically populate search shortcuts and Bento Grid links.
+- **System Admin Permanence Protection Policy**: Hardened core authentication services so the master system admin (`admin@hotel.com`) can never be blocked and its password remains permanent.
+- **Real-time Email Dispatch Debugger**: Upgraded async email helpers with full stack trace connection dumps to dynamically route elegant HTML confirmation letters to guests and hotel owners on checkout.
 
 ---
 
