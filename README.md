@@ -129,6 +129,10 @@ Explore modern listings equipped with multi-amenity filtering logic and instant 
 Manage booked itineraries, cancel upcoming stays, and leverage active promotions dynamically in a consolidated customer account view.
 ![Customer Profile](screenshots/customer_profile.png)
 
+#### 5. Premium Branded Footer
+A stunning dark-theme navigation footer equipped with resource indices, newsletter subscription forms, and elegant copyright notes.
+![LuxeStay Footer](screenshots/homepage_footer.png)
+
 ---
 
 ### 🔑 Admin Operations Suite
@@ -148,5 +152,14 @@ Configure individual room categories, establish guest occupancy capacities, and 
 #### 4. Global Booking Audit Logs
 Supervise complete reservation itineraries, track guest contact references, and perform administrative approvals or cancellations.
 ![Admin Bookings Audit](screenshots/admin_bookings.png)
+
+#### 5. Customer Accounts Safety Moderator
+Audit the list of registered users, distinguish customer accounts from admins, and immediately trigger access blocks for safety violations.
+![Admin User Moderation](screenshots/admin_users.png)
+
+#### 6. Coupon Promotions Builder
+Create precise promo codes, configure percentage deduction rates, and toggle or delete promotional discounts dynamically.
+![Admin Coupons Builder](screenshots/admin_coupons.png)
+
 
 
