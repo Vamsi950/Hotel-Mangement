@@ -111,19 +111,42 @@ Once started:
 
 Here is a visual walk-through of the premium LuxeStay interface:
 
-### 1. Curated Homepage & Search Hub
+### 👤 Customer Portal Showcase
+
+#### 1. Curated Homepage & Search Hub
 Experience the fluid glassmorphism dark-theme header, dynamic location shortcuts, and real-time destination filtering.
 ![LuxeStay Homepage](screenshots/homepage_hero.png)
 
-### 2. Discover & Featured Destinations
+#### 2. Discover & Featured Destinations
 Beautifully structured cards showcasing hand-picked luxury stays with custom, interactive micro-animations.
 ![Featured Destinations](screenshots/featured_destinations.png)
 
-### 3. Room Bookings & Custom Amenities Checklist
+#### 3. Room Bookings & Custom Amenities Checklist
 Explore modern listings equipped with multi-amenity filtering logic and instant "View Rooms" redirects.
 ![Room Listings](screenshots/room_listings.png)
 
-### 4. Customer Reservation Portfolio & Discount Center
+#### 4. Customer Reservation Portfolio & Discount Center
 Manage booked itineraries, cancel upcoming stays, and leverage active promotions dynamically in a consolidated customer account view.
 ![Customer Profile](screenshots/customer_profile.png)
+
+---
+
+### 🔑 Admin Operations Suite
+
+#### 1. Real-time Dashboard Analytics
+A comprehensive control panel tracking live metrics, key business indicators, and recent booking transaction entries.
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+#### 2. Hotel Inventory Manager
+A dedicated interface for hotel administrators to seamlessly create, edit, modify, or retire luxury hotel listings.
+![Admin Inventory](screenshots/admin_inventory.png)
+
+#### 3. Rooms Setup & Pricing Configuration
+Configure individual room categories, establish guest occupancy capacities, and live-toggle room availability properties.
+![Admin Rooms Configuration](screenshots/admin_rooms.png)
+
+#### 4. Global Booking Audit Logs
+Supervise complete reservation itineraries, track guest contact references, and perform administrative approvals or cancellations.
+![Admin Bookings Audit](screenshots/admin_bookings.png)
+
 
