@@ -3,6 +3,8 @@
 A premium, modern, and highly responsive **Full Stack Hotel Booking Website** featuring a curated glassmorphism dark-theme design. 
 The system features only two user roles: **Customer** (for browsing, searching, and securing reservations) and **Admin** (for dashboard statistics, CRUD listings, user locking, and coupon building).
 
+![LuxeStay Homepage Hero View](screenshots/homepage_hero.png)
+
 ---
 
 ## 🚀 Custom Premium Integrations (New!)
@@ -102,3 +104,26 @@ Once started:
 - **Reservation Logs**: Global list of bookings, payment methods, total prices, and buttons to Confirm or Cancel logs directly.
 - **Moderator Console**: Block or unblock registered customer accounts immediately.
 - **Promotional Coupons**: Active discount percentage generators with easy delete/status triggers.
+
+---
+
+## 📸 Visual Application Showcase
+
+Here is a visual walk-through of the premium LuxeStay interface:
+
+### 1. Curated Homepage & Search Hub
+Experience the fluid glassmorphism dark-theme header, dynamic location shortcuts, and real-time destination filtering.
+![LuxeStay Homepage](screenshots/homepage_hero.png)
+
+### 2. Discover & Featured Destinations
+Beautifully structured cards showcasing hand-picked luxury stays with custom, interactive micro-animations.
+![Featured Destinations](screenshots/featured_destinations.png)
+
+### 3. Room Bookings & Custom Amenities Checklist
+Explore modern listings equipped with multi-amenity filtering logic and instant "View Rooms" redirects.
+![Room Listings](screenshots/room_listings.png)
+
+### 4. Customer Reservation Portfolio & Discount Center
+Manage booked itineraries, cancel upcoming stays, and leverage active promotions dynamically in a consolidated customer account view.
+![Customer Profile](screenshots/customer_profile.png)
+
